@@ -260,12 +260,12 @@ close FILE;
 
 
 
-SAMPLE INPUT 
+SAMPLE INPUT : 
 5
 
 
 
-SAMPLE OUTUT
+SAMPLE OUTUT : 
 
  hello world 
  hello world 
